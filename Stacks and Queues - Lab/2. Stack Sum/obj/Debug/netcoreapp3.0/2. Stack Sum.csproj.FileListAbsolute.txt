@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.exe
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.deps.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.runtimeconfig.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\bin\Debug\netcoreapp3.0\2. Stack Sum.pdb
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.0\2. Stack Sum.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.0\2. Stack Sum.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.0\2. Stack Sum.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.0\2. Stack Sum.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\2. Stack Sum\obj\Debug\netcoreapp3.0\2. Stack Sum.pdb

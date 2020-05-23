@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.exe
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.deps.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.runtimeconfig.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\bin\Debug\netcoreapp3.0\4. Matching Brackets.pdb
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Lab\4. Matching Brackets\obj\Debug\netcoreapp3.0\4. Matching Brackets.pdb
