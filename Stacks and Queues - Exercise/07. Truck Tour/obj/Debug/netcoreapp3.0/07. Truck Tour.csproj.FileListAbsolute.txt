@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.exe
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.deps.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.runtimeconfig.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.0\07. Truck Tour.pdb
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.0\07. Truck Tour.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.0\07. Truck Tour.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.0\07. Truck Tour.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.0\07. Truck Tour.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.0\07. Truck Tour.pdb

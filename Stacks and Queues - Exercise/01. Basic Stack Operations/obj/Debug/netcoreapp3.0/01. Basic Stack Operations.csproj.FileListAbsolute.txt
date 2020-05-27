@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.exe
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.deps.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.runtimeconfig.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\netcoreapp3.0\01. Basic Stack Operations.pdb
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.0\01. Basic Stack Operations.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.0\01. Basic Stack Operations.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.0\01. Basic Stack Operations.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\netcoreapp3.0\01. Basic Stack Operations.pdb

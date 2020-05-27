@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.exe
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.deps.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.runtimeconfig.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp3.0\08. Balanced Parenthesis.pdb
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.dll
+D:\_C#_Projects\_Advance\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp3.0\08. Balanced Parenthesis.pdb
