@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.exe
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.deps.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.runtimeconfig.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\netcoreapp3.0\3. Primary Diagonal.pdb
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\netcoreapp3.0\3. Primary Diagonal.pdb

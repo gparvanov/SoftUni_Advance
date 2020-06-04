@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.exe
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.deps.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.runtimeconfig.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.0\2. Squares in Matrix.pdb
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.0\2. Squares in Matrix.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.0\2. Squares in Matrix.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.0\2. Squares in Matrix.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.0\2. Squares in Matrix.pdb

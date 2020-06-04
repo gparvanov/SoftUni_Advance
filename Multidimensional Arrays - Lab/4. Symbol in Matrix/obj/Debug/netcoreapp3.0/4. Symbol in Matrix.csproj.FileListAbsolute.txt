@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.exe
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.deps.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.runtimeconfig.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.0\4. Symbol in Matrix.pdb
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.0\4. Symbol in Matrix.pdb

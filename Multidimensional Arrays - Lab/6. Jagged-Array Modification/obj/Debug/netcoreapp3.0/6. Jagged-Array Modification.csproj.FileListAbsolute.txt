@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.exe
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.deps.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.runtimeconfig.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.0\6. Jagged-Array Modification.pdb
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.0\6. Jagged-Array Modification.pdb

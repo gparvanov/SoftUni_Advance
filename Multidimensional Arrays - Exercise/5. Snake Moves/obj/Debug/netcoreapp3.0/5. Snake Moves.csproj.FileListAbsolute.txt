@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.exe
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.deps.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.runtimeconfig.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\bin\Debug\netcoreapp3.0\5. Snake Moves.pdb
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.dll
+D:\_C#_Projects\_Advance\Multidimensional Arrays - Exercise\5. Snake Moves\obj\Debug\netcoreapp3.0\5. Snake Moves.pdb
