@@ -9,12 +9,10 @@ namespace _9._Miner
         {
             int size = int.Parse(Console.ReadLine());
             Queue<string> directions = new Queue<string>(Console.ReadLine().Split());
-
             char[,] matrix = new char[size,size];
+
             int startRow = 0;
-            int startCol = 0;
-            int exitRow = 0;
-            int exitCol = 0;
+            int startCol = 0;            
             int totalCoals = 0;
             int foundCoals = 0;
             for (int row = 0; row < size; row++)
@@ -61,21 +59,17 @@ namespace _9._Miner
                 {
                     char currentChar = matrix[currentRow, currentCol];
                     if(currentChar == 'e')
-                    {
-                        exitRow = currentRow;
-                        exitCol = currentCol;
-                        Console.WriteLine($"Game over! ({exitRow}, {exitCol})");
+                    {                        
+                        Console.WriteLine($"Game over! ({currentRow}, {currentCol})");
                         return;
                     }
                     else if (currentChar == 'c')
                     {
                         foundCoals++;
-                        matrix[currentRow, currentCol] = '*';
-                        exitRow = currentRow;
-                        exitCol = currentCol;
+                        matrix[currentRow, currentCol] = '*';                        
                         if (foundCoals == totalCoals)
                         {
-                            Console.WriteLine($"You collected all coals! ({exitRow}, {exitCol})");
+                            Console.WriteLine($"You collected all coals! ({currentRow}, {currentCol})");
                             return;
                         }
                     }
