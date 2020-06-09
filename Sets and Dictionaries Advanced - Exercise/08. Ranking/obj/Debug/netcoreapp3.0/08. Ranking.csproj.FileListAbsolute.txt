@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.exe
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.deps.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.runtimeconfig.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.dll
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.0\08. Ranking.pdb
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.dll
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.0\08. Ranking.pdb

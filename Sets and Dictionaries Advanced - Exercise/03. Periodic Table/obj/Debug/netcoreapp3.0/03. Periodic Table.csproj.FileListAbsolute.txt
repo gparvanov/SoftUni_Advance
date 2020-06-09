@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.exe
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.deps.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.runtimeconfig.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.dll
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.0\03. Periodic Table.pdb
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.dll
+D:\_C#_Projects\_Advance\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.0\03. Periodic Table.pdb
