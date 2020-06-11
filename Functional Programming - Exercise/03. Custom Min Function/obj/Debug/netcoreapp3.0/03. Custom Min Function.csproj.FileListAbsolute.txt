@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.exe
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.0\03. Custom Min Function.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.0\03. Custom Min Function.pdb

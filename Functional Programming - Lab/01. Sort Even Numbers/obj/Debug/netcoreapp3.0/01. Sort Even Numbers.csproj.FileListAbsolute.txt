@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.exe
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.0\01. Sort Even Numbers.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.0\01. Sort Even Numbers.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.0\01. Sort Even Numbers.pdb

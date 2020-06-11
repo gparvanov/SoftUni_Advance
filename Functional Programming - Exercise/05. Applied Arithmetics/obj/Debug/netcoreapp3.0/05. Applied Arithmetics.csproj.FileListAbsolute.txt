@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.exe
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.0\05. Applied Arithmetics.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.0\05. Applied Arithmetics.pdb

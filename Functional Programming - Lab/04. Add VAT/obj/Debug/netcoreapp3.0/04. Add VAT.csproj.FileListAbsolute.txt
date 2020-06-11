@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.exe
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.0\04. Add VAT.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.0\04. Add VAT.pdb

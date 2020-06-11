@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.exe
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp3.0\02. Sum Numbers.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.0\02. Sum Numbers.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.0\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.0\02. Sum Numbers.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.0\02. Sum Numbers.dll
+D:\_C#_Projects\_Advance\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp3.0\02. Sum Numbers.pdb

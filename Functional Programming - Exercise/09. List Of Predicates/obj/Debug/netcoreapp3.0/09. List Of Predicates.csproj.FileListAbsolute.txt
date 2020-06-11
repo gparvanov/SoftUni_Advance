@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.exe
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\bin\Debug\netcoreapp3.0\09. List Of Predicates.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.0\09. List Of Predicates.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.0\09. List Of Predicates.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.0\09. List Of Predicates.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\09. List Of Predicates\obj\Debug\netcoreapp3.0\09. List Of Predicates.pdb

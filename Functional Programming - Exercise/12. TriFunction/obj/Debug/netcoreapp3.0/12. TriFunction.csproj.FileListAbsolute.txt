@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.exe
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.deps.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.runtimeconfig.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\bin\Debug\netcoreapp3.0\12. TriFunction.pdb
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\obj\Debug\netcoreapp3.0\12. TriFunction.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\obj\Debug\netcoreapp3.0\12. TriFunction.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\obj\Debug\netcoreapp3.0\12. TriFunction.dll
+D:\_C#_Projects\_Advance\Functional Programming - Exercise\12. TriFunction\obj\Debug\netcoreapp3.0\12. TriFunction.pdb
