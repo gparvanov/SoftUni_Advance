@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.0\2. Car Extension.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.0\2. Car Extension.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.exe
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.dll
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.0\2. Car Extension.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.0\2. Car Extension.dll
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.0\2. Car Extension.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.0\2. Car Extension.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.0\4. Car Engine And Tires.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.0\4. Car Engine And Tires.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.0\4. Car Engine And Tires.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.exe
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.dll
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.0\4. Car Engine And Tires.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.0\4. Car Engine And Tires.dll
+D:\_C#_Projects\_Advance\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.0\4. Car Engine And Tires.pdb

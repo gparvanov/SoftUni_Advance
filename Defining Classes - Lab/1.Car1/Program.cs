@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace StartUp
+namespace CarManufacturer
 {
-    class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
@@ -13,5 +13,5 @@ namespace StartUp
             car.Year = 1992;
             Console.WriteLine($"Make {car.Make}\nModel: {car.Model}\nYear: {car.Year}");
         }
-    }    
-}   
+    }
+}
