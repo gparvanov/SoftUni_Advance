@@ -50,13 +50,7 @@ namespace CarManufacturer
         }
         public Car()
         {
-            this.Make = "VW";
-            this.Model = "Golf";
-            this.Year = 2025;
-            this.FuelQuantity = 200;
-            this.FuelConsumption = 10;
-            this.Engine = engine;
-            this.Tires = tires;
+            
         }
         public Car(string make, string model, int year) : this()
         {
@@ -78,7 +72,7 @@ namespace CarManufacturer
 
         public void Drive(double distance)
         {
-            double remainFuel = FuelQuantity - (distance * FuelConsumption) / 100;
+            double remainFuel = FuelQuantity - (distance * FuelConsumption) / 100.0;
             if (remainFuel >= 0) FuelQuantity = remainFuel;
             //else Console.WriteLine("Not enough fuel to perform this trip!");
         }        

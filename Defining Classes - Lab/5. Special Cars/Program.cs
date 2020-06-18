@@ -23,7 +23,7 @@ namespace CarManufacturer
                 double tire3Pressure = double.Parse(tires[5]);
                 int tire4Index = int.Parse(tires[6]);
                 double tire4Pressure = double.Parse(tires[7]);
-                                
+
                 tiresDB[tiresCounter] = new Tire[4]
                 {
                     new Tire(tire1Index,tire1Pressure),
@@ -58,14 +58,14 @@ namespace CarManufacturer
                 int engineIndex = int.Parse(commandData[5]);
                 int tireIndex = int.Parse(commandData[6]);
                 var engine = engineDB[engineIndex];
-                var tires = tiresDB[tireIndex];
+                var tires = tiresDB[tireIndex];                
                 Car car = new Car(make, model, year, fuelQuantity, fuelConsumption, engine, tires);
-                carsList.Add(car);                
+                carsList.Add(car);                                
                 command = Console.ReadLine();
             }
             foreach (var carIndex in carsList)
-            {                
-                if (carIndex.Year >= 2017 && carIndex.Engine.HorsePower >= 330)
+            {
+                if (carIndex.Year >= 2017 && carIndex.Engine.HorsePower > 330)
                 {
                     double tirePressure = 0;
                     foreach (var tire in carIndex.Tires)
@@ -80,10 +80,10 @@ namespace CarManufacturer
                         sb.AppendLine($"Model: {carIndex.Model}");
                         sb.AppendLine($"Year: {carIndex.Year}");
                         sb.AppendLine($"HorsePowers: {carIndex.Engine.HorsePower}");
-                        sb.Append($"FuelQuantity: {carIndex.FuelQuantity}L");
+                        sb.Append($"FuelQuantity: {carIndex.FuelQuantity}");
                         Console.WriteLine(sb.ToString());
                     }
-                }                
+                }
             }
         }
     }

@@ -4,7 +4,6 @@ D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\bin\Debug\netcor
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\bin\Debug\netcoreapp3.0\5. Special Cars.runtimeconfig.dev.json
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\bin\Debug\netcoreapp3.0\5. Special Cars.dll
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\bin\Debug\netcoreapp3.0\5. Special Cars.pdb
-D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\obj\Debug\netcoreapp3.0\5. Special Cars.csprojAssemblyReference.cache
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\obj\Debug\netcoreapp3.0\5. Special Cars.AssemblyInfoInputs.cache
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\obj\Debug\netcoreapp3.0\5. Special Cars.AssemblyInfo.cs
 D:\_C#_Projects\_Advance\Defining Classes - Lab\5. Special Cars\obj\Debug\netcoreapp3.0\5. Special Cars.dll

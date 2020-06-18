@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.0\03. Oldest Family Member.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.0\03. Oldest Family Member.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.0\03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.0\03. Oldest Family Member.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.0\03. Oldest Family Member.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.0\03. Oldest Family Member.pdb

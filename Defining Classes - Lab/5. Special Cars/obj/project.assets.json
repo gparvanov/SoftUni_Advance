@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_C#_Projects\\_Advance\\Defining Classes - Lab\\5. Special Cars\\5. Special Cars.csproj",
-      "projectName": "5. Special Cars",
-      "projectPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Lab\\5. Special Cars\\5. Special Cars.csproj",
+      "projectUniqueName": "D:\\_C#_Projects\\_Advance\\Defining Classes - Lab\\5. Special Cars\\DefiningClasses.csproj",
+      "projectName": "DefiningClasses",
+      "projectPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Lab\\5. Special Cars\\DefiningClasses.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Lab\\5. Special Cars\\obj\\",
       "projectStyle": "PackageReference",

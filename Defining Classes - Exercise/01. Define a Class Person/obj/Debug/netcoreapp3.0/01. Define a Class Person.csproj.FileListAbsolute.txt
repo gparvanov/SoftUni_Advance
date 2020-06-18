@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.0\01. Define a Class Person.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.0\01. Define a Class Person.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.0\01. Define a Class Person.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.0\01. Define a Class Person.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.0\01. Define a Class Person.pdb
