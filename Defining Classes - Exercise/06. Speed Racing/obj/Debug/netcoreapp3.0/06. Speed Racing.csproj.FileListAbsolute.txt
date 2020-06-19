@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.0\06. Speed Racing.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.0\06. Speed Racing.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.0\06. Speed Racing.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.0\06. Speed Racing.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.0\06. Speed Racing.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.0\06. Speed Racing.pdb

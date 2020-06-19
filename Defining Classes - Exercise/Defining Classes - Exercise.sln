@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Define a Class Person",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Creating Constructors", "02. Creating Constructors\02. Creating Constructors.csproj", "{BAD399F4-F18D-40A5-8C86-D5480D20AF28}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "03. Oldest Family Member\DefiningClasses.csproj", "{27D59056-94BF-4FDA-80F3-1FA6EAAA7920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", "03. Oldest Family Member\03. Oldest Family Member.csproj", "{27D59056-94BF-4FDA-80F3-1FA6EAAA7920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{25E54694-5A10-42B3-B82E-0B5235C02A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{8929C7EE-AD5A-40FD-A34F-34C132C48C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{22C9C3EC-18CA-4E76-B9CE-F7AF9EC85496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{27D59056-94BF-4FDA-80F3-1FA6EAAA7920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D59056-94BF-4FDA-80F3-1FA6EAAA7920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D59056-94BF-4FDA-80F3-1FA6EAAA7920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E54694-5A10-42B3-B82E-0B5235C02A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E54694-5A10-42B3-B82E-0B5235C02A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E54694-5A10-42B3-B82E-0B5235C02A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E54694-5A10-42B3-B82E-0B5235C02A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8929C7EE-AD5A-40FD-A34F-34C132C48C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8929C7EE-AD5A-40FD-A34F-34C132C48C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8929C7EE-AD5A-40FD-A34F-34C132C48C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8929C7EE-AD5A-40FD-A34F-34C132C48C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C9C3EC-18CA-4E76-B9CE-F7AF9EC85496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C9C3EC-18CA-4E76-B9CE-F7AF9EC85496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C9C3EC-18CA-4E76-B9CE-F7AF9EC85496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C9C3EC-18CA-4E76-B9CE-F7AF9EC85496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\03. Oldest Family Member\\03. Oldest Family Member.csproj",
-      "projectName": "03. Oldest Family Member",
-      "projectPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\03. Oldest Family Member\\03. Oldest Family Member.csproj",
+      "projectUniqueName": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\04. Opinion Poll\\04. Opinion Poll.csproj",
+      "projectName": "04. Opinion Poll",
+      "projectPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\04. Opinion Poll\\04. Opinion Poll.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\03. Oldest Family Member\\obj\\",
+      "outputPath": "D:\\_C#_Projects\\_Advance\\Defining Classes - Exercise\\04. Opinion Poll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
