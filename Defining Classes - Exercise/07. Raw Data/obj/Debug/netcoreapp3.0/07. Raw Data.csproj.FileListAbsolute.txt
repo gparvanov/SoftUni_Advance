@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.0\07. Raw Data.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.0\07. Raw Data.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.0\07. Raw Data.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.0\07. Raw Data.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.0\07. Raw Data.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.0\07. Raw Data.pdb
