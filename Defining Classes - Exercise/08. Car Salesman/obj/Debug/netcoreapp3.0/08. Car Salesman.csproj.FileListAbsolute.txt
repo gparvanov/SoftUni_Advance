@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.0\08. Car Salesman.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.0\08. Car Salesman.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.0\08. Car Salesman.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.0\08. Car Salesman.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.0\08. Car Salesman.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.0\08. Car Salesman.pdb

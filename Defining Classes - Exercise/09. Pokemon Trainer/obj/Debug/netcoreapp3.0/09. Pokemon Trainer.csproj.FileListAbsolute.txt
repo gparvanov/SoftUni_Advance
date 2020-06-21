@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\bin\Debug\netcoreapp3.0\09. Pokemon Trainer.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.0\09. Pokemon Trainer.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.0\09. Pokemon Trainer.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.0\09. Pokemon Trainer.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.0\09. Pokemon Trainer.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\09. Pokemon Trainer\obj\Debug\netcoreapp3.0\09. Pokemon Trainer.pdb
