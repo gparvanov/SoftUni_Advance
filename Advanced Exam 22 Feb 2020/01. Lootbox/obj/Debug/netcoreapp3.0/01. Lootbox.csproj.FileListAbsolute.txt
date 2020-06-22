@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.exe
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\bin\Debug\netcoreapp3.0\01. Lootbox.pdb
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.0\01. Lootbox.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.0\01. Lootbox.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.0\01. Lootbox.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.0\01. Lootbox.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\01. Lootbox\obj\Debug\netcoreapp3.0\01. Lootbox.pdb
