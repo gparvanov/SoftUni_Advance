@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+D:\_C#_Projects\_Advance\Defining Classes - Exercise\10. SoftUni Parking\obj\Debug\netcoreapp3.0\DefiningClasses.pdb
