@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.exe
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\obj\Debug\netcoreapp3.0\Guild.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\03. Guild\obj\Debug\netcoreapp3.0\Guild.pdb

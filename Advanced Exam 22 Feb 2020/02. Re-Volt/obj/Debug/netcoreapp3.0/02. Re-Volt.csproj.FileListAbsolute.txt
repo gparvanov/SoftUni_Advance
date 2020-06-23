@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.exe
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.0\02. Re-Volt.pdb
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.0\02. Re-Volt.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.0\02. Re-Volt.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.0\02. Re-Volt.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.0\02. Re-Volt.dll
+D:\_C#_Projects\_Advance\Advanced Exam 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.0\02. Re-Volt.pdb
