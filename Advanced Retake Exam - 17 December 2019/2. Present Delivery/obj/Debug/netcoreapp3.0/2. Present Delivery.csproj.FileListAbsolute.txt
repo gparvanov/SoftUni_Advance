@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.exe
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.deps.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.dll
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\bin\Debug\netcoreapp3.0\2. Present Delivery.pdb
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\obj\Debug\netcoreapp3.0\2. Present Delivery.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\obj\Debug\netcoreapp3.0\2. Present Delivery.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\obj\Debug\netcoreapp3.0\2. Present Delivery.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\obj\Debug\netcoreapp3.0\2. Present Delivery.dll
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\2. Present Delivery\obj\Debug\netcoreapp3.0\2. Present Delivery.pdb

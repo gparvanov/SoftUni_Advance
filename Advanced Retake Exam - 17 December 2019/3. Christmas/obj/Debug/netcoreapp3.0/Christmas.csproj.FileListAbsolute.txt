@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.exe
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.deps.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.dll
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\bin\Debug\netcoreapp3.0\Christmas.pdb
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\obj\Debug\netcoreapp3.0\Christmas.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\obj\Debug\netcoreapp3.0\Christmas.dll
+D:\_C#_Projects\_Advance\Advanced Retake Exam - 17 December 2019\3. Christmas\obj\Debug\netcoreapp3.0\Christmas.pdb
