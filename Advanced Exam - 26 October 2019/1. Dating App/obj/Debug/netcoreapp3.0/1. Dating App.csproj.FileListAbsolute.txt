@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.exe
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\bin\Debug\netcoreapp3.0\1. Dating App.pdb
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.0\1. Dating App.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.0\1. Dating App.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.0\1. Dating App.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.0\1. Dating App.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\1. Dating App\obj\Debug\netcoreapp3.0\1. Dating App.pdb

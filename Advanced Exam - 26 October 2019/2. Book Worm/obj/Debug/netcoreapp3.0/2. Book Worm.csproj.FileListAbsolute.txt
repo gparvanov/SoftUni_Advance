@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.exe
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\bin\Debug\netcoreapp3.0\2. Book Worm.pdb
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\obj\Debug\netcoreapp3.0\2. Book Worm.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\obj\Debug\netcoreapp3.0\2. Book Worm.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\obj\Debug\netcoreapp3.0\2. Book Worm.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\obj\Debug\netcoreapp3.0\2. Book Worm.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 26 October 2019\2. Book Worm\obj\Debug\netcoreapp3.0\2. Book Worm.pdb
