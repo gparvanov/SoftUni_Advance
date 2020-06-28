@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.exe
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.deps.json
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.runtimeconfig.json
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\bin\Debug\netcoreapp3.0\02. Snake.pdb
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.0\02. Snake.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.0\02. Snake.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.0\02. Snake.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.0\02. Snake.dll
+D:\_C#_Projects\_Advance\Advanced Exam - 28 June 2020\02. Snake\obj\Debug\netcoreapp3.0\02. Snake.pdb
