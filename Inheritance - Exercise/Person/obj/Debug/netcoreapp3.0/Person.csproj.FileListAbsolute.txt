@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.exe
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.deps.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.runtimeconfig.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.0\Person.pdb
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.0\Person.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.0\Person.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.0\Person.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.0\Person.pdb

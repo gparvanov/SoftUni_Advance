@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.exe
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.deps.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.runtimeconfig.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.dll
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.0\01. Single Inheritance.pdb
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.0\01. Single Inheritance.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.0\01. Single Inheritance.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.0\01. Single Inheritance.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.0\01. Single Inheritance.dll
+D:\_C#_Projects\_Advance\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.0\01. Single Inheritance.pdb

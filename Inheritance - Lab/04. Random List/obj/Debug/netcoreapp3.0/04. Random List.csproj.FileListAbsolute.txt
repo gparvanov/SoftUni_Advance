@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.exe
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.deps.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.runtimeconfig.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.dll
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.0\04. Random List.pdb
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.0\04. Random List.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.0\04. Random List.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.0\04. Random List.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.0\04. Random List.dll
+D:\_C#_Projects\_Advance\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.0\04. Random List.pdb

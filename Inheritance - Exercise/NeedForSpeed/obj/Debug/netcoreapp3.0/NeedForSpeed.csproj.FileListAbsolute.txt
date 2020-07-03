@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.exe
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.deps.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.pdb
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.pdb

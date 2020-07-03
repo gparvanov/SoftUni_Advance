@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.exe
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.deps.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.runtimeconfig.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.pdb
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.pdb

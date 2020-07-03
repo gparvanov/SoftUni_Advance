@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.exe
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.deps.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.runtimeconfig.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.pdb
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.dll
+D:\_C#_Projects\_Advance\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.pdb
