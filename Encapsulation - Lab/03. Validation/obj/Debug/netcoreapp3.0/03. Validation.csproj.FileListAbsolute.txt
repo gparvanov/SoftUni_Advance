@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.exe
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.0\03. Validation.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.0\03. Validation.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.0\03. Validation.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.0\03. Validation.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.0\03. Validation.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.0\03. Validation.pdb

@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.exe
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.pdb

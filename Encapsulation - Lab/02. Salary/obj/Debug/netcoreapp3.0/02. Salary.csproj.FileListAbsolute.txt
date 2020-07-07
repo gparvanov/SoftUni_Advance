@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.exe
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp3.0\02. Salary.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp3.0\02. Salary.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp3.0\02. Salary.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp3.0\02. Salary.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp3.0\02. Salary.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp3.0\02. Salary.pdb

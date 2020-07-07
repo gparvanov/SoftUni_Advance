@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.exe
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.pdb

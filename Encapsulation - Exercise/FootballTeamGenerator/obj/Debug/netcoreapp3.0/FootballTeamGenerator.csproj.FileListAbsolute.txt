@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.exe
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.0\FootballTeamGenerator.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.0\FootballTeamGenerator.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.0\FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.0\FootballTeamGenerator.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.0\FootballTeamGenerator.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.0\FootballTeamGenerator.pdb

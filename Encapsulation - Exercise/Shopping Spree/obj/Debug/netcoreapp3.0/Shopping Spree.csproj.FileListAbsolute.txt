@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.exe
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.dll
+D:\_C#_Projects\_Advance\Encapsulation - Exercise\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.pdb

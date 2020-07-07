@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.exe
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.deps.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.runtimeconfig.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.0\01. Persons.pdb
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.0\01. Persons.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.0\01. Persons.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.0\01. Persons.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.0\01. Persons.dll
+D:\_C#_Projects\_Advance\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.0\01. Persons.pdb
