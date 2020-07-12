@@ -1,0 +1,10 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\bin\Debug\netcoreapp3.0\BirthdayCelebrations.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Birthday Celebrations\obj\Debug\netcoreapp3.0\BirthdayCelebrations.pdb

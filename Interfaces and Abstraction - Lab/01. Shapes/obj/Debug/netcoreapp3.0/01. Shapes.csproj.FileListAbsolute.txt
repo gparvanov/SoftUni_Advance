@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp3.0\01. Shapes.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp3.0\01. Shapes.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp3.0\01. Shapes.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp3.0\01. Shapes.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp3.0\01. Shapes.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp3.0\01. Shapes.pdb

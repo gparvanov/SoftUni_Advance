@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.0\Border Control.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.0\Border Control.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.0\Border Control.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.0\Border Control.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.0\Border Control.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.0\Border Control.pdb

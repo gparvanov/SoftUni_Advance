@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\bin\Debug\netcoreapp3.0\Food Shortage.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\obj\Debug\netcoreapp3.0\Food Shortage.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\obj\Debug\netcoreapp3.0\Food Shortage.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\obj\Debug\netcoreapp3.0\Food Shortage.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\obj\Debug\netcoreapp3.0\Food Shortage.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\Food Shortage\obj\Debug\netcoreapp3.0\Food Shortage.pdb

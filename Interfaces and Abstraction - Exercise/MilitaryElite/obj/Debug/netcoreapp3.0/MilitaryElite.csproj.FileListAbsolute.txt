@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.0\MilitaryElite.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.0\MilitaryElite.pdb
