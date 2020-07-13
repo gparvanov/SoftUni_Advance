@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
