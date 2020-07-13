@@ -1,0 +1,11 @@
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.exe
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.deps.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.0\CollectionHierarchy.pdb
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.dll
+D:\_C#_Projects\_Advance\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.0\CollectionHierarchy.pdb
