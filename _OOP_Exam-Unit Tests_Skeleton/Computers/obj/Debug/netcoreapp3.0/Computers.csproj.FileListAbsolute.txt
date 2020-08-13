@@ -1,0 +1,13 @@
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+D:\_C#_Projects\_Advance\16. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

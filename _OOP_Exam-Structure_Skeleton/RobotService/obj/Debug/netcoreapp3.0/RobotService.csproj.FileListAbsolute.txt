@@ -1,0 +1,13 @@
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+D:\_C#_Projects\_Advance\16. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache
