@@ -1,0 +1,13 @@
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+D:\_C#_Projects\_Advance\19. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
